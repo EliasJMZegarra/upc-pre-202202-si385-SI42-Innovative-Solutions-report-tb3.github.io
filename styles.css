@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#container{
+    width: 1100 px;
+    margin: 0 px auto;
+    border: 1px solid black;
+}
+header{
+    background: black;
+    height: 40px;
+    width: 100%;
+    margin: 0 px;
+    text-align: center;
+    line-height: 35px;
+    color: white;
+    
+}
+nav{
+    background: greenyellow;
+    height: 50 px;
+    border-bottom: 1 px solid black;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+h2{
+    text-align-last:left;
+    line-height: 40px;
+}
